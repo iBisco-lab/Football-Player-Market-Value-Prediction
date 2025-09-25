@@ -6,5 +6,4 @@ The final model, validated with 5-fold cross-validation, generates predictions o
 
 ---Additional Information---
 - train.csv is the dataset by which the model is trained
-- test.csv is the dataset that tests the model
-- submission.csv is the new created dataset which contains the estimations of new players
+- submission.csv is the new created dataset which contains only the estimations of the players from test.csv
