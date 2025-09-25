@@ -247,7 +247,7 @@ final_submission[['value_eur']].to_csv(
     index=True
 )
 
-print("✅ File submission_final.csv salvato correttamente con index + value_eur.")
+print("File submission_final.csv salvato correttamente con index + value_eur.")
 
 
 
